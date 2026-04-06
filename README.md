@@ -25,4 +25,4 @@ This project implements a maze-solving algorithm using **A\*** and **Dijkstra’
 This project was developed as part of a team. Contributions were made to algorithm implementation, optimization, and testing.
 
 ## 🚀 How to Run
-1. Compile the program using a C++ compiler:
+This project is a GUI-based application and is intended to be run within its development environment (e.g., Visual Studio or similar IDE supporting graphical applications).
